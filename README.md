@@ -4,7 +4,7 @@
 ### Markdown
 <p align="center">
   
-<iframe width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=9d4338b1-5dfa-475b-94e9-128839b48ac2&autoAuth=true&ctid=96db78cf-221e-423e-8d55-bcabc5bf9ba6&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLW5vcnRoLWNlbnRyYWwtZy1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9" frameborder="1" allowFullScreen="true"></iframe>
+<iframe width="1140" height="541.25" src="https://app.powerbi.com/groups/me/dashboards/4fa20367-01ce-4b76-9314-3782da1c8251" frameborder="1" allowFullScreen="true"></iframe>
 
 </p>
 
