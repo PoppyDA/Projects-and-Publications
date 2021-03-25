@@ -1,14 +1,12 @@
-## Welcome to GitHub Pages
+## Covid 19 New Cases and Deaths Dashboard
 
-You can use the [editor on GitHub](https://github.com/PoppyDA/covid19_dash/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
+<p align="center">
+  
+<iframe width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=9d4338b1-5dfa-475b-94e9-128839b48ac2&autoAuth=true&ctid=96db78cf-221e-423e-8d55-bcabc5bf9ba6&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLW5vcnRoLWNlbnRyYWwtZy1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9" frameborder="1" allowFullScreen="true"></iframe>
 
-<iframe width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=9d4338b1-5dfa-475b-94e9-128839b48ac2&autoAuth=true&ctid=96db78cf-221e-423e-8d55-bcabc5bf9ba6&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLW5vcnRoLWNlbnRyYWwtZy1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9" frameborder="0" allowFullScreen="true"></iframe>
-```markdown
-Syntax highlighted code block
+</p>
 
 # Header 1
 ## Header 2
