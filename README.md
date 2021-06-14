@@ -1,32 +1,10 @@
 ## Covid 19 New Cases and Deaths Dashboard
 
-
-### Markdown
   
 <iframe width="1140" height="541.25" src="https://app.powerbi.com/groups/me/dashboards/4fa20367-01ce-4b76-9314-3782da1c8251" frameborder="1" allowFullScreen="true"></iframe>
 
+### Description
 
-# Header 1
-## Header 2
-### Header 3
+This was a passion project to get myself to learn PowerBI by integrating it with some code I wrote in Python to predict general Covid 19 trends. The program analyzes the NYTimes Covid19 case/death data to construct a 7-day rolling average of cases and deaths within the U.S.A, and utilizes the Gaussian process regression algorithm in sci-kit learn to predict the trend for the next 7 days.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PoppyDA/covid19_dash/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+By default the entire U.S.A is selected, but mixing-and-matching states and counties can be done via the selection tab.
