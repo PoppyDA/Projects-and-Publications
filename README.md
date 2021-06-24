@@ -20,4 +20,4 @@ Data: https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html
 
 ## Master's Thesis in Physics
 
-<iframe width="1000" height="530" src= "https://arxiv.org/pdf/1911.11291.pdf" frameborder="1"></iframe>
+[Many Body Localization in 2D Systems with Quasi-Random fields in X and YDirections](https://arxiv.org/pdf/1911.11291.pdf)
