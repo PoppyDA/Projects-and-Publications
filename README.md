@@ -16,3 +16,8 @@ Data: https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html
 ## PCCM/PRISM Poster Presentation
 
 ![poster presentation](docs/assets/images/Princeton_REU_Poster_Carrillo_img.png)
+
+
+## Master's Thesis
+
+[Thesis](https://arxiv.org/abs/1911.11291)
