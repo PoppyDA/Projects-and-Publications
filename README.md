@@ -10,3 +10,8 @@ This was a passion project to get myself to learn PowerBI by integrating it with
 By default the entire U.S.A is selected, but mixing-and-matching states and counties can be done via the selection tab.
 
 Data: https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html
+
+
+## PCCM/PRISM Poster Presentation
+
+<iframe width="1140" height="541" src= https://github.com/PoppyDA/Projects-and-Publications/blob/8f4aa89d017e6ba3389a03599fdc7ff56279b59a/Princeton_REU_Poster_Carrillo.pdf frameborder="1" allowFullScreen="true"></iframe>
