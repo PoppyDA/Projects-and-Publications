@@ -1,4 +1,3 @@
-title: Projects and Presentations by Nick Carrillo
 
 ## Covid 19 New Cases and Deaths Dashboard
 
