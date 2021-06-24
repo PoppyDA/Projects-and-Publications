@@ -18,6 +18,6 @@ Data: https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html
 ![poster presentation](docs/assets/images/Princeton_REU_Poster_Carrillo_img.png)
 
 
-## Master's Thesis
+## Master's Thesis in Physics
 
-[Thesis](https://arxiv.org/abs/1911.11291)
+[Many Body Localization in 2D Systems with Quasi-Random fields in X and Y Directions](https://arxiv.org/abs/1911.11291)
