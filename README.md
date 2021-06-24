@@ -2,7 +2,7 @@ title: Projects and Presentations by Nick Carrillo
 
 ## Covid 19 New Cases and Deaths Dashboard
 
-<iframe width="1140" height="530" src="https://app.powerbi.com/reportEmbed?reportId=9d4338b1-5dfa-475b-94e9-128839b48ac2&autoAuth=true&ctid=96db78cf-221e-423e-8d55-bcabc5bf9ba6&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLW5vcnRoLWNlbnRyYWwtZy1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9" frameborder="1" allowFullScreen="true"></iframe>
+<iframe width="1140" height="530" src="https://app.powerbi.com/reportEmbed?reportId=9d4338b1-5dfa-475b-94e9-128839b48ac2&autoAuth=true&ctid=96db78cf-221e-423e-8d55-bcabc5bf9ba6&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLW5vcnRoLWNlbnRyYWwtZy1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9" frameborder="1"></iframe>
 
 
 ### Description
@@ -16,4 +16,4 @@ Data: https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html
 
 ## PCCM/PRISM Poster Presentation
 
-<iframe src="https://docs.google.com/gview?url= https://github.com/PoppyDA/Projects-and-Publications/blob/8f4aa89d017e6ba3389a03599fdc7ff56279b59a/Princeton_REU_Poster_Carrillo.pdf &embedded=true" style="width:800; height:1000;" frameborder="0"></iframe>
+<iframe width="800" height="1000" src="https://docs.google.com/gview?url= https://github.com/PoppyDA/Projects-and-Publications/blob/8f4aa89d017e6ba3389a03599fdc7ff56279b59a/Princeton_REU_Poster_Carrillo.pdf" frameborder="0"></iframe>
